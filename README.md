@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jonathan Kim!
+
+[![Linkedin: JonathanKim424](https://img.shields.io/badge/-JonathanKim424-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-kim-135a7070/)](https://www.linkedin.com/in/jonathan-kim-135a7070/)
+[![GitHub JonathanKim424](https://img.shields.io/github/followers/JonathanKim424?label=follow&style=social)](https://github.com/JonathanKim424)
+
+Full Stack Developer and recent graduate with a certificate in Full Stack Web Development from UT Austin.
 
 <!--
 **JonathanKim424/JonathanKim424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
